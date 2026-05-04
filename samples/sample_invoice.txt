@@ -1,0 +1,44 @@
+This is a sample text invoice for testing the Document Intelligence Pipeline.
+
+===========================================================
+                        INVOICE
+===========================================================
+
+Invoice Number: INV-2026-0042
+Invoice Date: 2026-04-15
+Due Date: 2026-05-15
+
+FROM:
+  Acme Solutions Inc.
+  123 Business Ave, Suite 400
+  San Francisco, CA 94102
+  Email: billing@acmesolutions.com
+
+TO:
+  TechCorp Ltd.
+  456 Innovation Drive
+  Austin, TX 73301
+  Email: accounts@techcorp.com
+
+-----------------------------------------------------------
+ITEM DESCRIPTION              QTY    UNIT PRICE    AMOUNT
+-----------------------------------------------------------
+Cloud Hosting (Monthly)         1     $2,500.00   $2,500.00
+API Integration Service         3       $750.00   $2,250.00
+Data Analytics Dashboard        1     $1,200.00   $1,200.00
+Technical Support (Hours)      10       $150.00   $1,500.00
+-----------------------------------------------------------
+
+                              Subtotal:   $7,450.00
+                              Tax (8.5%):    $633.25
+                              TOTAL:      $8,083.25
+
+Payment Terms: Net 30
+Payment Method: Bank Transfer
+
+Bank Details:
+  Bank: First National Bank
+  Account: 1234567890
+  Routing: 021000021
+
+Notes: Thank you for your business!
